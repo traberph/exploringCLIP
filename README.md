@@ -13,7 +13,7 @@
 ![interpolated lion](assets/interp_lion.png)
 
 
- ## The full project report is available here => [exploreCLIP](assets/exploreCLIP.pdf)
+ ## The full project report is available here => [exploringCLIP](assets/exploringCLIP.pdf)
 
 ## Some insights from the project report
 
