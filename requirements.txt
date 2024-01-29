@@ -1,0 +1,49 @@
+torch == 2.1.1
+transformers == 4.35.2
+Pillow == 10.1.0
+numpy == 1.26.2
+scikit-learn == 1.3.2
+seaborn == 0.13.0
+umap-learn == 0.5.5
+tensorflow == 2.15.0
+git+https://github.com/openai/CLIP.git
+
+accelerate>=0.11.0
+compel==0.1.8
+datasets
+filelock
+flax>=0.4.1
+hf-doc-builder>=0.3.0
+huggingface-hub>=0.19.4
+requests-mock==1.10.0
+importlib_metadata
+invisible-watermark>=0.2.0
+isort>=5.5.4
+jax>=0.4.1
+jaxlib>=0.4.1
+Jinja2
+k-diffusion>=0.0.12
+torchsde
+note_seq
+librosa
+numpy
+omegaconf
+parameterized
+peft>=0.6.0
+protobuf>=3.20.3<4
+pytest
+pytest-timeout
+pytest-xdist
+ruff==0.1.5
+safetensors>=0.3.1
+sentencepiece>=0.1.91!=0.1.92
+GitPython<3.1.19
+scipy
+onnx
+regex!=2019.12.17
+requests
+tensorboard
+torch>=1.4
+torchvision
+transformers>=4.25.1
+urllib3<=2.0.0
